@@ -3,6 +3,7 @@
 
 # Week 12
 Instructions : Download the Wk12 Maze file, a Unity package file. Import the package into a new project in Unity 2021. After connecting an Oculus headset via link, press play in Unity. The right controller looks with the stick, and grabs with the right hand trigger. The left controller moves with the stick, and moves objects taht are detected with a raycast (Teleportation movement is also included in the Locomotion object, but continuous movement is active by default).
+A roof gameobject is turned off by default to more easily make changes in the editor. This can be activated for better ambiance.
 
 Objectives :
 - The maze includes at least four turns.
