@@ -2,7 +2,7 @@
  VR projects as part of NYU's XR Development Course
 
 # Week 12
-Instructions : Download this repository containing a Unity package file. Import the package into a new project in Unity 2021.
+Instructions : Download the Wk12 Maze file, a Unity package file. Import the package into a new project in Unity 2021.
 
 Objectives :
 - The maze includes at least four turns.
