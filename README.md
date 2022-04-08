@@ -2,7 +2,7 @@
  VR projects as part of NYU's XR Development Course
 
 # Week 12
-Instructions : Download the Wk12 Maze file, a Unity package file. Import the package into a new project in Unity 2021.
+Instructions : Download the Wk12 Maze file, a Unity package file. Import the package into a new project in Unity 2021. After connecting an Oculus headset via link, press play in Unity. The right controller looks with the stick, and grabs with the right hand trigger. The left controller moves with the stick, and moves objects taht are detected with a raycast (Teleportation movement is also included in the Locomotion object, but continuous movement is active by default).
 
 Objectives :
 - The maze includes at least four turns.
@@ -21,7 +21,7 @@ See screenshots below for maze overview with requisite number of turns, dead end
 
 This project was challenging, as it was the first project I have constructed in VR. The project was built with XR Interaction Toolkit, Plugin Manager, and OpenXR for Oculus in Unity 2021. These build choices were made to reduce compatibility and functionality issues that arose when attempting to use earlier versions of those packages. While many of the key components are the same in a general sense, numerous details, features, and functionality have been altered since the creation of the project example. Furthermore, many of the core XR packages used in the example project were in a preview state. This project uses packages that are out of preview.
 
-This maze project will be expanded in future projects to include animations and increasted interactivity, as well as fine-tuning the VR experience, bug fixes, etc.
+This maze project will be expanded in future projects to include animations, NPCs, and increasted interactivity, as well as fine-tuning the VR experience, bug fixes, etc.
 
 Maze layout requirements :
 ![Maze_Layout_requirements](https://user-images.githubusercontent.com/73659857/162364298-3eee6c70-3068-4a12-9bdf-304b74e8ccba.jpg)
